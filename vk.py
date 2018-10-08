@@ -2,7 +2,7 @@
 import vk_api
 import credentials
 
-location_name = 'vladimir'
+location_name = 'vn'
 
 
 def main():
